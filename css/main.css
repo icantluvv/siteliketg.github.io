@@ -1,0 +1,103 @@
+body {
+    position: relative;
+}
+
+#aside {
+    position: fixed;
+    width: 15%;
+    height: 100%;
+    padding-top: 17%;
+    background-color: #17212B;
+    border-right: 1px solid gainsboro;
+    font-size: 13px;
+    z-index: 100px;
+}
+
+#up {
+    position: fixed;
+    width: 100%;
+    height: 7%;
+    background-color: #17212B;
+    border-bottom: 1px solid darkgrey;
+}
+
+
+/* 
+#cent {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    background-color: black;
+} */
+
+#messages {
+    text-align: center;
+    text-decoration: none;
+    list-style: none;
+    padding-bottom: 10%;
+    padding-top: 9%;
+    color: white;
+}
+
+#messages:hover {
+    background-color: gray;
+    color: white;
+}
+
+#photo {
+    text-align: center;
+    text-decoration: none;
+    list-style: none;
+    padding-bottom: 10%;
+    padding-top: 9%;
+    color: white;
+}
+
+#photo:hover {
+    background-color: gray;
+    color: white;
+}
+
+#video {
+    text-align: center;
+    text-decoration: none;
+    list-style: none;
+    padding-bottom: 10%;
+    color: white;
+    padding-top: 9%;
+}
+
+#video:hover {
+    background-color: gray;
+    color: white;
+}
+
+#audio {
+    text-align: center;
+    text-decoration: none;
+    list-style: none;
+    padding-bottom: 10%;
+    color: white;
+    padding-top: 9%;
+}
+
+#audio:hover {
+    background-color: gray;
+    color: white;
+}
+
+#logo {
+    position: absolute;
+    text-align: left;
+    padding-left: 5%;
+    list-style: none;
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+    left: 10%;
+}
+
+#search {
+    position: absolute;
+    left: 15%;
+}
