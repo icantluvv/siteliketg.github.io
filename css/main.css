@@ -15,20 +15,20 @@ body {
 
 #mess {
     position: absolute;
-    left: calc(50% - 15px);
-    top: calc(28% - 15px);
+    left: calc(50% - 13.75%);
+    top: calc(28% - 13.75%);
 }
 
 #acc {
     position: absolute;
-    left: 70%;
-    top: calc(28% - 15px);
+    left: calc(70% - 13.75%);
+    top: calc(28% - 13.75%);
 }
 
 #new {
     position: absolute;
-    left: 24%;
-    top: calc(28% - 12px);
+    left: calc(30% - 13.75%);
+    top: calc(28% - 11.25%);
 }
 
 #so {
