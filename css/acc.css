@@ -53,6 +53,7 @@ body {
     height: 50%;
     border-radius: 50px;
     background-color: #17212A;
+    opacity: 0.7;
 }
 
 #ava {
