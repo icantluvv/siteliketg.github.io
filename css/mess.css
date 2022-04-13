@@ -17,18 +17,24 @@ body {
     position: absolute;
     left: calc(50% - 13.75%);
     top: calc(28% - 13.75%);
+    width: 27.5%;
+    height: 27.5%;
 }
 
 #acc {
     position: absolute;
-    left: calc(80% - 13.75%);
+    left: calc(79% - 13.75%);
     top: calc(28% - 13.75%);
+    width: 27.5%;
+    height: 27.5%;
 }
 
 #new {
     position: absolute;
     left: calc(21% - 13.75%);
     top: calc(28% - 11.25%);
+    width: 27.5%;
+    height: 25%;
 }
 
 #so {
