@@ -4,9 +4,9 @@ body {
 
 #up {
     position: fixed;
-    left: calc(50% - 15%);
+    left: calc(50% - 20%);
     bottom: -7%;
-    width: 30%;
+    width: 40%;
     height: 15%;
     background-color: #17212A;
     border: 1px solid #17212A;
@@ -27,7 +27,7 @@ body {
 
 #new {
     position: absolute;
-    left: calc(20% - 13.75%);
+    left: calc(21% - 13.75%);
     top: calc(28% - 11.25%);
 }
 
