@@ -1,0 +1,41 @@
+body {
+    position: relative;
+}
+
+#up {
+    position: fixed;
+    left: calc(50% - 15%);
+    bottom: -7%;
+    width: 30%;
+    height: 15%;
+    background-color: #17212A;
+    border: 1px solid #17212A;
+    border-radius: 400px;
+}
+
+#mess {
+    position: absolute;
+    left: calc(50% - 13.75%);
+    top: calc(28% - 13.75%);
+}
+
+#acc {
+    position: absolute;
+    left: calc(80% - 13.75%);
+    top: calc(28% - 13.75%);
+}
+
+#new {
+    position: absolute;
+    left: calc(20% - 13.75%);
+    top: calc(28% - 11.25%);
+}
+
+#so {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    height: 100%;
+    background-color: red;
+}
