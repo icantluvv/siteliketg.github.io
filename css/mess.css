@@ -43,5 +43,38 @@ body {
     top: 0;
     left: 0;
     height: 100%;
-    background-color: red;
+    background-color: aliceblue;
+}
+
+#stack {
+    position: relative;
+    width: 60%;
+    height: 90%;
+    left: calc(50% - 30%);
+    top: -1%;
+    background-color: #17212A;
+    border: 1px solid black;
+    border-radius: 15px;
+    opacity: 0.7;
+}
+
+#other {
+    position: absolute;
+    width: 20%;
+    height: 100%;
+    float: left;
+    top: 0;
+    background-color: #17212A;
+    opacity: 1;
+    border: 1px solid black;
+}
+
+#stick {
+    width: 20%;
+    height: 100%;
+    float: right;
+    top: 0;
+    background-color: #17212A;
+    opacity: 1;
+    border: 1px solid black;
 }
