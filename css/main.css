@@ -21,13 +21,13 @@ body {
 
 #acc {
     position: absolute;
-    left: calc(70% - 13.75%);
+    left: calc(80% - 13.75%);
     top: calc(28% - 13.75%);
 }
 
 #new {
     position: absolute;
-    left: calc(30% - 13.75%);
+    left: calc(20% - 13.75%);
     top: calc(28% - 11.25%);
 }
 
